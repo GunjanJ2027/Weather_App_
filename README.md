@@ -24,3 +24,8 @@ A modern, clean, and responsive Weather Application built using vanilla frontend
 2. Open `script.js` and insert your OpenWeather API key:
 ```javascript
    const API_KEY = 'YOUR_API_KEY_HERE';
+
+## ✍️ Author Details
+Name: Gunjan Joshi
+Roll no. 2301010062
+Course: B.Tech CSE
