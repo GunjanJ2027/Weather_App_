@@ -15,9 +15,9 @@ A modern, clean, and responsive Weather Application built using vanilla frontend
 * **Robust Error Handling:** Gracefully handles denied location permissions, invalid city names, and network connectivity issues with user-friendly error prompts.
 
 ## 🛠️ Technologies Used
-* **HTML5:** 
-* **CSS3:** 
-* **JavaScript (ES6+):**
+* **HTML5** 
+* **CSS3** 
+* **JavaScript (ES6+)**
 
 ## 📋 How to Run Locally
 1. Clone or download this repository.
@@ -27,6 +27,9 @@ A modern, clean, and responsive Weather Application built using vanilla frontend
 ```
 
 ## ✍️ Author Details
+
 Name: Gunjan Joshi
+
 Roll no. 2301010062
+
 Course: B.Tech CSE
